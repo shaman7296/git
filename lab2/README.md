@@ -52,7 +52,7 @@ LV var,log,root находятся на диске sda:
 
 13-15) Изменили размер второго раздела диска ssd5 (sdb) и ssd4 (sda)
 
-![razmer] (https://github.com/shaman7296/git/blob/master/lab2/image/razmer.png?raw=true)
+![razmer](https://github.com/shaman7296/git/blob/master/lab2/image/razmer.png?raw=true)
 
 Получили sda2 и sdb2 разделы, которые имеют размер > чем размер RAID-устройство.
 
